@@ -11,6 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let number = 0
+        let word = "abcd"
         // Do any additional setup after loading the view.
     }
 
